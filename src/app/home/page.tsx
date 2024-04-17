@@ -58,6 +58,22 @@ export default function Home() {
                             Sair
                         </Button>
                     </Grid2>
+                    <Grid2
+                        xs={12}
+                        sm={12}
+                        md={12}
+                        lg={12}
+                        xl={12}
+                        sx={centralize()}
+                    >
+                        <iframe
+                            title="Sample Report Demo"
+                            width="1140"
+                            height="541.25"
+                            src="https://playground.powerbi.com/sampleReportEmbed"
+                            allowFullScreen={true}
+                        ></iframe>
+                    </Grid2>
                 </Grid2>
             </Box>
         );
