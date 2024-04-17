@@ -1,0 +1,14 @@
+{
+    "reports": [
+        {
+            "name": "Primeiro",
+            "id": "2",
+            "url": "https://app.powerbi.com/reportEmbed?reportId=8dd5eacc-bf5e-4cfa-bd97-9e481e60db8c&autoAuth=true&embeddedDemo=true"
+        },
+        {
+            "name": "default",
+            "id": "1",
+            "url": "https://playground.powerbi.com/sampleReportEmbed"
+        }
+    ]
+}
